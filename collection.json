@@ -1,8 +1,8 @@
 {
     "collection": {
         "name": "Ordinal Bulls",
-        "description": "Ordinal Bulls",
-        "creator": "Ordfan",
+        "description": "Sophisticated bulls living only on Bitcoin. Forever. Limited to 210 unique and handcrafted items. Inscribed in high quality.",
+        "creator": "OrangeFarm",
         "max_supply": "210",
         "first_inscribed": "42945",
         "last_inscribed": "366913",
@@ -10,7 +10,7 @@
     },
     "items": [
         {
-            "name": "Ordinal Bull #42945",
+            "name": "The General",
             "collection_item_id": "1",
             "inscription_id": "a04bc334d05098b16a400a688e41bc0ccbdd1ebf074f361e70271ec338e78373i0",
             "image_hash": "8148ef569d3c0f8b04041d31c3a83e21",
@@ -63,10 +63,11 @@
             ],
             "number": 42945,
             "content_length": 35124,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #42947",
+            "name": "The General",
             "collection_item_id": "2",
             "inscription_id": "e1626e63b4e8c58298273e59ffd3fe7f09ce559b44eb37f2f28e76b2887e83eai0",
             "image_hash": "2c8a2f8ad0857fb6fe848c640eb18950",
@@ -119,10 +120,11 @@
             ],
             "number": 42947,
             "content_length": 33436,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #42948",
+            "name": "The Suit",
             "collection_item_id": "3",
             "inscription_id": "d4e06111a71b24b685749b451f28c1dac49b552708cfc3b0f6cd715cdf3b2104i0",
             "image_hash": "b66575301ca652695a82c33ab3ccb5a7",
@@ -175,10 +177,11 @@
             ],
             "number": 42948,
             "content_length": 59865,
-            "timestamp": 1678225281000
+            "timestamp": 1678225281000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #42949",
+            "name": "The Hero",
             "collection_item_id": "4",
             "inscription_id": "f47d247570b0dd8a7b9e38606ef8c414bb1ab77a926080fcf3b7c5645011b63ci0",
             "image_hash": "9bde6c5901ca17f56a6c35011ef54705",
@@ -231,10 +234,11 @@
             ],
             "number": 42949,
             "content_length": 54984,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #42950",
+            "name": "The Collector",
             "collection_item_id": "5",
             "inscription_id": "48062c7128361c7d131d789650333c537d1f3337b3c9783824c83f16040af18ai0",
             "image_hash": "52c2a4b51d16369b2d8e9b295cdeedf8",
@@ -287,10 +291,11 @@
             ],
             "number": 42950,
             "content_length": 22726,
-            "timestamp": 1678280865000
+            "timestamp": 1678280865000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #42952",
+            "name": "The Hero",
             "collection_item_id": "6",
             "inscription_id": "a7d880317d623cce93ea1ac04009f89a4af34fc8b3e9d80464bbe74484a46cddi0",
             "image_hash": "9849f2f335a9f93b31d1513820edf02c",
@@ -343,10 +348,11 @@
             ],
             "number": 42952,
             "content_length": 51646,
-            "timestamp": 1678879766000
+            "timestamp": 1678879766000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #42953",
+            "name": "The Suit",
             "collection_item_id": "7",
             "inscription_id": "267f453b8fff5480b5afcea907ae8273646b5479b2937e5557afba46dad78ff1i0",
             "image_hash": "77d20f51c3eb44c38cc35f0c376fcacf",
@@ -399,10 +405,11 @@
             ],
             "number": 42953,
             "content_length": 22120,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #42954",
+            "name": "The Collector",
             "collection_item_id": "8",
             "inscription_id": "89a5c4e26759f3958ea5b9d2081e5e3c854216519b3792cc8ccf283e782a35fei0",
             "image_hash": "f8c63a56b1360792544b0207c6139f90",
@@ -460,10 +467,11 @@
             ],
             "number": 42954,
             "content_length": 24052,
-            "timestamp": 1678280865000
+            "timestamp": 1678280865000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #48773",
+            "name": "The Collector",
             "collection_item_id": "9",
             "inscription_id": "ae5af17149e8be1f3d0e6448a3330e8e5a2e24d6d6493b27e1ee17c4ff13c3b6i0",
             "image_hash": "534c7b308deb03f96026111f3eab4b48",
@@ -526,10 +534,11 @@
             ],
             "number": 48773,
             "content_length": 77532,
-            "timestamp": 1678879560000
+            "timestamp": 1678879560000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #48928",
+            "name": "The Collector",
             "collection_item_id": "10",
             "inscription_id": "8a96ba23c14b68d301824e54547cd6fd16a6d7111075fd6917ec48fe3c289a92i0",
             "image_hash": "7f64f6c0b39c44566062dfb2b8b30138",
@@ -592,10 +601,11 @@
             ],
             "number": 48928,
             "content_length": 81108,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #48938",
+            "name": "The Player",
             "collection_item_id": "11",
             "inscription_id": "c27e11644c7a25bc5f9447b5212607fdc7f67250abce61829bc7195d06eec13ci0",
             "image_hash": "16ee339d8f7fdaf27858abdd939a93af",
@@ -648,10 +658,11 @@
             ],
             "number": 48938,
             "content_length": 81035,
-            "timestamp": 1678225281000
+            "timestamp": 1678225281000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #49730",
+            "name": "The Player",
             "collection_item_id": "12",
             "inscription_id": "0d960f140043abb5531cbd81ea1acbbe35a3e24dd676866769ab4d57b5152f77i0",
             "image_hash": "c6cc51c91cd986ae8aa447e06b1743b1",
@@ -704,10 +715,11 @@
             ],
             "number": 49730,
             "content_length": 81429,
-            "timestamp": 1678879302000
+            "timestamp": 1678879302000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #49917",
+            "name": "The Collector",
             "collection_item_id": "13",
             "inscription_id": "b61faa93a6e9e0acb645e4f568f9bef88c430e4186d28a635ae58db6ab304a5di0",
             "image_hash": "1f0969994ef8a01f1a51e35b2906742e",
@@ -760,10 +772,11 @@
             ],
             "number": 49917,
             "content_length": 73790,
-            "timestamp": 1682189323000
+            "timestamp": 1682189323000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #49918",
+            "name": "The Collector",
             "collection_item_id": "14",
             "inscription_id": "cd49fcd4b951a9395f8dc36363c7d5b273b6f37d4ee40127d350f9cca8463779i0",
             "image_hash": "baac99d2dcdb0990aa48aa1bc1e134c1",
@@ -816,10 +829,11 @@
             ],
             "number": 49918,
             "content_length": 74638,
-            "timestamp": 1678875025000
+            "timestamp": 1678875025000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #56484",
+            "name": "The Player",
             "collection_item_id": "15",
             "inscription_id": "46d49a1af430331541296bc2c094bdcda0ee62a0357a4f8516b0f3c1750f110bi0",
             "image_hash": "054e74d42faebb7a5ce1b7bd632710a3",
@@ -872,10 +886,11 @@
             ],
             "number": 56484,
             "content_length": 84274,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #56487",
+            "name": "The Suit",
             "collection_item_id": "16",
             "inscription_id": "78ad9ef5092a65a141ab65b7cf60c64195350d730793d11d39d2758d1785a68ci0",
             "image_hash": "2c625b4ae310a938d2056a332dbbcfbc",
@@ -928,10 +943,11 @@
             ],
             "number": 56487,
             "content_length": 68062,
-            "timestamp": 1678259195000
+            "timestamp": 1678259195000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #56603",
+            "name": "The Rapper",
             "collection_item_id": "17",
             "inscription_id": "bef44f5629ab8adce9bafbe91809b75daca3a5baa1727638edc3e5caa567704ei0",
             "image_hash": "1b381f788b971642bee2411e1c913b06",
@@ -989,10 +1005,11 @@
             ],
             "number": 56603,
             "content_length": 90134,
-            "timestamp": 1678221984000
+            "timestamp": 1678221984000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #57169",
+            "name": "The Hero",
             "collection_item_id": "18",
             "inscription_id": "da30e4f012d932f855f12f7dc328858b85e478e8a80ccc9755e05a618564e15ai0",
             "image_hash": "8cae47752246a4c7ed52067b22c36dcc",
@@ -1045,10 +1062,11 @@
             ],
             "number": 57169,
             "content_length": 125395,
-            "timestamp": 1678259195000
+            "timestamp": 1678259195000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #57170",
+            "name": "The Collector",
             "collection_item_id": "19",
             "inscription_id": "e52113f5c65959dce5d226199fb22dae5aefa476a429c5ac2492301d8b094d5ci0",
             "image_hash": "3b8387f1c9b03e2369c1af6afbd4a3ac",
@@ -1101,10 +1119,11 @@
             ],
             "number": 57170,
             "content_length": 86829,
-            "timestamp": 1678280865000
+            "timestamp": 1678280865000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #57212",
+            "name": "The General",
             "collection_item_id": "20",
             "inscription_id": "7f080eec28a3341f412082b4b642c4399ca60c9353ad3cb2537a342da227d99bi0",
             "image_hash": "94369bf02945ecfad9cfe143757ceebf",
@@ -1157,10 +1176,11 @@
             ],
             "number": 57212,
             "content_length": 104024,
-            "timestamp": 1678259195000
+            "timestamp": 1678259195000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #57609",
+            "name": "The Cowboy",
             "collection_item_id": "21",
             "inscription_id": "eb89631821e1f302251d18724d888d43617268a768df4e501a902602b81e48afi0",
             "image_hash": "e6217817c3804c05e47648407ec11c62",
@@ -1208,10 +1228,11 @@
             ],
             "number": 57609,
             "content_length": 115562,
-            "timestamp": 1678879766000
+            "timestamp": 1678879766000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57610",
+            "name": "The Cowboy",
             "collection_item_id": "22",
             "inscription_id": "dd91b05c8331f61a3516f7b64ad4e945bc0859d79616662fe8ec99e2c80f55e8i0",
             "image_hash": "41457d5d1c8109ee2277d61965f12bd1",
@@ -1259,10 +1280,11 @@
             ],
             "number": 57610,
             "content_length": 117393,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57695",
+            "name": "The Player",
             "collection_item_id": "23",
             "inscription_id": "e504e6088644b16c8429c83a83e3df7eeea4ecea00fd889eba36b32e74c660adi0",
             "image_hash": "b8c2fa4ed6bb8c7ada803d2abdb7f296",
@@ -1315,10 +1337,11 @@
             ],
             "number": 57695,
             "content_length": 116600,
-            "timestamp": 1678280865000
+            "timestamp": 1678280865000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57697",
+            "name": "The Cowboy",
             "collection_item_id": "24",
             "inscription_id": "30801a0168703064c14875cd875f294ab310e19236c6d41c33acafb8bef3faa4i0",
             "image_hash": "d28acf6e790f4fb73f15fc4a6812ce03",
@@ -1366,10 +1389,11 @@
             ],
             "number": 57697,
             "content_length": 115787,
-            "timestamp": 1678223251000
+            "timestamp": 1678223251000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57838",
+            "name": "The Player",
             "collection_item_id": "25",
             "inscription_id": "21b2526658a88b6917137d9749b7fe66bdaab6b7595b78f72b8dc1984f793fa0i0",
             "image_hash": "087e17822404b7fa787f171e2b2dfd3c",
@@ -1422,10 +1446,11 @@
             ],
             "number": 57838,
             "content_length": 110521,
-            "timestamp": 1676176421000
+            "timestamp": 1676176421000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57840",
+            "name": "The Player",
             "collection_item_id": "26",
             "inscription_id": "6caf8c18467650182c9797985be2096f9ab873baef7cddd98ce384d25a55dbe2i0",
             "image_hash": "9b0cb04fea81506ac5ae7e3797368083",
@@ -1478,10 +1503,11 @@
             ],
             "number": 57840,
             "content_length": 114810,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #57951",
+            "name": "The Collector",
             "collection_item_id": "27",
             "inscription_id": "e3df390ac1d80ab65ededaf53f305e9956e46a52829f9aa46343e08556752351i0",
             "image_hash": "ed1479855297bcf59e39f9dc75c17d0e",
@@ -1539,10 +1565,11 @@
             ],
             "number": 57951,
             "content_length": 88433,
-            "timestamp": 1676152835000
+            "timestamp": 1676152835000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #58006",
+            "name": "The Collector",
             "collection_item_id": "28",
             "inscription_id": "1e33c1c25b2ea9bc5312bb271bf59d63cf8a3a6c89a454e1ff3afa603bf7d4e0i0",
             "image_hash": "832a6e17bd8da1e23516fe55d4d4323f",
@@ -1600,10 +1627,11 @@
             ],
             "number": 58006,
             "content_length": 89934,
-            "timestamp": 1676176439000
+            "timestamp": 1676176439000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #58038",
+            "name": "The Hero",
             "collection_item_id": "29",
             "inscription_id": "1ab7f78846896269b1959b19a90b0f751a325b149573b92c4bb2af15c8fb6a8ai0",
             "image_hash": "32e825de16e87a431ab008c24722b384",
@@ -1656,10 +1684,11 @@
             ],
             "number": 58038,
             "content_length": 185412,
-            "timestamp": 1676175522000
+            "timestamp": 1676175522000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #58039",
+            "name": "The Collector",
             "collection_item_id": "30",
             "inscription_id": "c624c754432c4c470644dc499a2141ad7d4ac5d8fd7a0e64cfeba0de71c5409di0",
             "image_hash": "eb94ea3750f3ddb7f8fb607ef23ad0cf",
@@ -1717,10 +1746,11 @@
             ],
             "number": 58039,
             "content_length": 140331,
-            "timestamp": 1678283685000
+            "timestamp": 1678283685000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #58092",
+            "name": "The Hero",
             "collection_item_id": "31",
             "inscription_id": "2425580c74fd82ffd9b394751897e56547bbc4b134faa2b1e8b6da2ad8bda400i0",
             "image_hash": "f49926a23febba0eed9e5ba8008344af",
@@ -1773,10 +1803,11 @@
             ],
             "number": 58092,
             "content_length": 207456,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #58101",
+            "name": "The Hero",
             "collection_item_id": "32",
             "inscription_id": "5e7c4e7a70d7113ab974e507dd90b997f9dc86f7691e9aa2672c2c16496aa191i0",
             "image_hash": "c8b7541a90110b0c68f5cf01c4149772",
@@ -1829,10 +1860,11 @@
             ],
             "number": 58101,
             "content_length": 209681,
-            "timestamp": 1678222354000
+            "timestamp": 1678222354000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #58345",
+            "name": "The Soldier",
             "collection_item_id": "33",
             "inscription_id": "2ba9210086c2c531ecf6676cea4070ba23ab27c88f0526339f75828f4c8dce35i0",
             "image_hash": "8a89657f3f9be46c6c52e20df9e908df",
@@ -1885,10 +1917,11 @@
             ],
             "number": 58345,
             "content_length": 103817,
-            "timestamp": 1678259590000
+            "timestamp": 1678259590000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #58359",
+            "name": "The Soldier",
             "collection_item_id": "34",
             "inscription_id": "b0234b9b71af6e2538465ddeb75faa00f5f6b023682c2a681fd6c8104ced0183i0",
             "image_hash": "bf62067e9b5c983a0ab497e88dbf5cae",
@@ -1941,10 +1974,11 @@
             ],
             "number": 58359,
             "content_length": 99070,
-            "timestamp": 1678876491000
+            "timestamp": 1678876491000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #58536",
+            "name": "The Soldier",
             "collection_item_id": "35",
             "inscription_id": "c4de6a82254a847389afbf4db53acd7f6c5336e80f1fd022c1927a15618231f3i0",
             "image_hash": "2abcd46209d5edfa7947f55644a5b9a5",
@@ -1997,10 +2031,11 @@
             ],
             "number": 58536,
             "content_length": 99458,
-            "timestamp": 1676152835000
+            "timestamp": 1676152835000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #64748",
+            "name": "The Punk",
             "collection_item_id": "36",
             "inscription_id": "45f9981b8076bf6dd744dd06ccff8a2c18fd4f6a5e98effa6a41f6040ca46786i0",
             "image_hash": "5bf1b365f2b7a5a938151c115ef05458",
@@ -2053,10 +2088,11 @@
             ],
             "number": 64748,
             "content_length": 152787,
-            "timestamp": 1682196648000
+            "timestamp": 1682196648000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #64773",
+            "name": "The Punk",
             "collection_item_id": "37",
             "inscription_id": "b4ae355e355e6833b09e8d9129d522fa0395385f131e3c93a9c1a9543b1d0cc9i0",
             "image_hash": "44937a7f25d26c805b4cf649f5f83c6d",
@@ -2109,10 +2145,11 @@
             ],
             "number": 64773,
             "content_length": 158158,
-            "timestamp": 1678259195000
+            "timestamp": 1678259195000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #65050",
+            "name": "The Punk",
             "collection_item_id": "38",
             "inscription_id": "d5385ba49acd91ba1068c5a7642424a3c232ac740825b73a94d74b6020e54ad9i0",
             "image_hash": "8f17c6fadeb7bf923ddcc0ea71eb00d5",
@@ -2165,10 +2202,11 @@
             ],
             "number": 65050,
             "content_length": 156623,
-            "timestamp": 1681412435000
+            "timestamp": 1681412435000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #65194",
+            "name": "The Suit",
             "collection_item_id": "39",
             "inscription_id": "c6650dcda7556cc0bf76d222cb04f017765584aefc8eb4b7913d9af8bf1e4956i0",
             "image_hash": "4b13e3b71d253b3dab9ab251aa97dd72",
@@ -2226,10 +2264,11 @@
             ],
             "number": 65194,
             "content_length": 104060,
-            "timestamp": 1678283685000
+            "timestamp": 1678283685000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #65432",
+            "name": "The Statue",
             "collection_item_id": "40",
             "inscription_id": "f53333dd1ea7d314885c8730093ba4f3e7a362c3aa1cc68c954bbc7afb1663a7i0",
             "image_hash": "f670dfa9a8c49c441bbd55824e0a2730",
@@ -2262,10 +2301,11 @@
             ],
             "number": 65432,
             "content_length": 112361,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #65749",
+            "name": "The Statue",
             "collection_item_id": "41",
             "inscription_id": "14d1c418bb368d080312f9d789e8df2d6e2c64939b680d5d473482cd8bb56bfci0",
             "image_hash": "adc2400bc3efa2697bf0ab2637aa7b85",
@@ -2298,10 +2338,11 @@
             ],
             "number": 65749,
             "content_length": 131598,
-            "timestamp": 1678259195000
+            "timestamp": 1678259195000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #65752",
+            "name": "The Statue",
             "collection_item_id": "42",
             "inscription_id": "e8c00c226197661f1ad9456a35b6f093dd1342e0e2251db110e8d7cd3ac8790ci0",
             "image_hash": "75a56652b79059c6c82eb76c426c89ce",
@@ -2334,10 +2375,11 @@
             ],
             "number": 65752,
             "content_length": 143049,
-            "timestamp": 1680619208000
+            "timestamp": 1680619208000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #65976",
+            "name": "The Statue",
             "collection_item_id": "43",
             "inscription_id": "bbf2323b39f849b564248aef5e3046c622e8b1ac1b0fdb3df1eed66aa064d30ci0",
             "image_hash": "bd6c0e71c27b048ec54913e1afda474a",
@@ -2370,10 +2412,11 @@
             ],
             "number": 65976,
             "content_length": 190367,
-            "timestamp": 1678283685000
+            "timestamp": 1678283685000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #65992",
+            "name": "The President",
             "collection_item_id": "44",
             "inscription_id": "1297bfa7f287ea53d63f8c4494518414b2c73039f4c52094807569723174df35i0",
             "image_hash": "c1b96809c1baa5c6e6048a0ff0083ccf",
@@ -2426,10 +2469,11 @@
             ],
             "number": 65992,
             "content_length": 106779,
-            "timestamp": 1678283685000
+            "timestamp": 1678283685000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #66108",
+            "name": "The Statue",
             "collection_item_id": "45",
             "inscription_id": "2f14b3d3fdb7907e3e6f8ff46dfe2c241e34052aaaf45bf1018322ff0455ef25i0",
             "image_hash": "f9d486a51a73446650f092dd5d1f26d9",
@@ -2462,10 +2506,11 @@
             ],
             "number": 66108,
             "content_length": 153613,
-            "timestamp": 1678259375000
+            "timestamp": 1678259375000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #73417",
+            "name": "The Statue",
             "collection_item_id": "46",
             "inscription_id": "6ccc7c82679d070936054f601a0b3dc755d8f2874b3e47eaa9c64ccd9488c2aci0",
             "image_hash": "d9ff87edd3055b558c7e37683a618c97",
@@ -2498,10 +2543,11 @@
             ],
             "number": 73417,
             "content_length": 153091,
-            "timestamp": 1680618338000
+            "timestamp": 1680618338000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #73433",
+            "name": "The Statue",
             "collection_item_id": "47",
             "inscription_id": "68603a76b58cbe15526be29171df4fe1831a92d4628adf663e1992cdd39a05b2i0",
             "image_hash": "25686c26c2b7b429a8baa58f899f0a61",
@@ -2534,10 +2580,11 @@
             ],
             "number": 73433,
             "content_length": 109159,
-            "timestamp": 1681309793000
+            "timestamp": 1681309793000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #73436",
+            "name": "The Statue",
             "collection_item_id": "48",
             "inscription_id": "eb38711c6463fc707e72b25d24dd232312cd13dab5742d12a531316b55c9d6f8i0",
             "image_hash": "83e3e66db6fa8dc7984ed3243fffeb40",
@@ -2570,10 +2617,11 @@
             ],
             "number": 73436,
             "content_length": 132900,
-            "timestamp": 1678222354000
+            "timestamp": 1678222354000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #73505",
+            "name": "The Statue",
             "collection_item_id": "49",
             "inscription_id": "3022bc9d8ddf4f758e48c69efe1f1ad030d747c64ca813c092526ce1aeeba216i0",
             "image_hash": "997ca04b0e5a51079fd9a45b7bad9aa3",
@@ -2606,10 +2654,11 @@
             ],
             "number": 73505,
             "content_length": 126766,
-            "timestamp": 1678261256000
+            "timestamp": 1678261256000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #76477",
+            "name": "The Dutchman",
             "collection_item_id": "50",
             "inscription_id": "0dad9e9544ac250bb47a90f12263f09493fc3b8ae23ef22a47a9f32942b4fa77i0",
             "image_hash": "29ea53625da2546000de7a6119da3c91",
@@ -2662,10 +2711,11 @@
             ],
             "number": 76477,
             "content_length": 96051,
-            "timestamp": 1680623296000
+            "timestamp": 1680623296000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #76482",
+            "name": "The Hodler",
             "collection_item_id": "51",
             "inscription_id": "76b1f12a78ccf57b3098fd4ec9f49d5fab5bd356e1846f99a83a7dd148ef76d2i0",
             "image_hash": "6dcacae8651f79bd950ed86057f03ec2",
@@ -2723,10 +2773,11 @@
             ],
             "number": 76482,
             "content_length": 64930,
-            "timestamp": 1678434733000
+            "timestamp": 1678434733000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #76538",
+            "name": "The Hodler",
             "collection_item_id": "52",
             "inscription_id": "2368b99dce5423ef2a8078614ec5e04fe6b88b72f69f08e5c1bd9cb3bae00d4ci0",
             "image_hash": "05fef0cf3ea9f92cc9b9f1b5f2b979b0",
@@ -2784,10 +2835,11 @@
             ],
             "number": 76538,
             "content_length": 65985,
-            "timestamp": 1684503109000
+            "timestamp": 1684503109000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #76778",
+            "name": "The Hodler",
             "collection_item_id": "53",
             "inscription_id": "90ee7f56c18b18ed9c2b58e97f045b0e8d3a963b9d2ebf5a83fbcbea942a2dbai0",
             "image_hash": "4d3a66b74b2159a3ebb1e62946514d20",
@@ -2845,10 +2897,11 @@
             ],
             "number": 76778,
             "content_length": 66047,
-            "timestamp": 1684610755000
+            "timestamp": 1684610755000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #77954",
+            "name": "The Hodler",
             "collection_item_id": "54",
             "inscription_id": "51c0f264e5ef6e91decf148090f77b4bf93ce749fa3063dd5a7ed44ae5eba4b6i0",
             "image_hash": "0a5f62e41bacae53c16924b6c1560955",
@@ -2906,10 +2959,11 @@
             ],
             "number": 77954,
             "content_length": 69976,
-            "timestamp": 1678118364000
+            "timestamp": 1678118364000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #77956",
+            "name": "The Hodler",
             "collection_item_id": "55",
             "inscription_id": "a41211271555a77e6ea0060393acb5cc4d08e2d929e4f83355370427dcf737c2i0",
             "image_hash": "1ae11fdcaef2e02ce613fb716e6895e5",
@@ -2967,10 +3021,11 @@
             ],
             "number": 77956,
             "content_length": 67148,
-            "timestamp": 1680679339000
+            "timestamp": 1680679339000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #77988",
+            "name": "The Hodler",
             "collection_item_id": "56",
             "inscription_id": "d3f157df286eba717db0fa8636ac7867ace647d87b5c27be746de14850fdb895i0",
             "image_hash": "6675e20b6bda95daede3ca4f9373dd64",
@@ -3028,10 +3083,11 @@
             ],
             "number": 77988,
             "content_length": 67234,
-            "timestamp": 1682190290000
+            "timestamp": 1682190290000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78055",
+            "name": "The Hodler",
             "collection_item_id": "57",
             "inscription_id": "8af38681fbc7540bc6d2c1a8c6e1ffd4f990d27bff142893d0bf373a86429419i0",
             "image_hash": "ace71285e02ca4299f34c7b4db7ea3ae",
@@ -3089,10 +3145,11 @@
             ],
             "number": 78055,
             "content_length": 73964,
-            "timestamp": 1681247663000
+            "timestamp": 1681247663000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78059",
+            "name": "The Hodler",
             "collection_item_id": "58",
             "inscription_id": "10e529c7a8cbaf43a57634b4f80c3275940eb83b9fdf47f8ae097fd02e08974bi0",
             "image_hash": "959562896db9df216a24853f12243d0b",
@@ -3150,10 +3207,11 @@
             ],
             "number": 78059,
             "content_length": 71146,
-            "timestamp": 1681333143000
+            "timestamp": 1681333143000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78061",
+            "name": "The Hodler",
             "collection_item_id": "59",
             "inscription_id": "74c05304273ba6bbf90d923c3ff1a2c41b8bf0f4310cdb0ea24d0a7d9a6aa85ai0",
             "image_hash": "0270827c092ee399e79870d6f4afb0be",
@@ -3211,10 +3269,11 @@
             ],
             "number": 78061,
             "content_length": 74982,
-            "timestamp": 1678110285000
+            "timestamp": 1678110285000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78318",
+            "name": "The Bitcoiner",
             "collection_item_id": "60",
             "inscription_id": "ee7f5d4acd154c532b1396d4c71455fd36708d773a8bde8292f130e4baa7ac44i0",
             "image_hash": "7beddc213e3260c793efae7b47457cca",
@@ -3272,10 +3331,11 @@
             ],
             "number": 78318,
             "content_length": 80967,
-            "timestamp": 1678519627000
+            "timestamp": 1678519627000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78321",
+            "name": "The Bitcoiner",
             "collection_item_id": "61",
             "inscription_id": "b7b44687de2bdbca1bf57daf1f7867b94dd4cc2d4e8deccb2d7a0f1550a07d64i0",
             "image_hash": "3cdc0594cda343c457f221c811a7deb1",
@@ -3333,10 +3393,11 @@
             ],
             "number": 78321,
             "content_length": 77704,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78322",
+            "name": "The Bitcoiner",
             "collection_item_id": "62",
             "inscription_id": "3ca03da1d42a4e776b34f8f484e70b97471f29897c8af4f7f2d8cb548c351e71i0",
             "image_hash": "5fa044c585f1717c44a8eb95b7b957da",
@@ -3394,10 +3455,11 @@
             ],
             "number": 78322,
             "content_length": 72290,
-            "timestamp": 1679597890000
+            "timestamp": 1679597890000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78325",
+            "name": "The Bitcoiner",
             "collection_item_id": "63",
             "inscription_id": "16d3282a46c183a8c5cc31066ff0dfabbeaa561aa94160fca55f66c1786346b7i0",
             "image_hash": "32da6302ff2937707b5db12a7a8a729a",
@@ -3455,10 +3517,11 @@
             ],
             "number": 78325,
             "content_length": 71261,
-            "timestamp": 1680626830000
+            "timestamp": 1680626830000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78326",
+            "name": "The Hodler",
             "collection_item_id": "64",
             "inscription_id": "119b3c9d182cb66a314490b5fd1998d88a467365fb01f83ccec2bde2977183eci0",
             "image_hash": "4f63ed3c4b2300ab3ce01637f6ace92f",
@@ -3516,10 +3579,11 @@
             ],
             "number": 78326,
             "content_length": 75218,
-            "timestamp": 1676331803000
+            "timestamp": 1676331803000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78339",
+            "name": "The Hodler",
             "collection_item_id": "65",
             "inscription_id": "281b50360ceb4eda2b45056840e899d8e1ef984e1e655443d37a0b3c91ca8936i0",
             "image_hash": "58a48460be5d844854fcfffd5d6fa9bc",
@@ -3577,10 +3641,11 @@
             ],
             "number": 78339,
             "content_length": 66873,
-            "timestamp": 1678434733000
+            "timestamp": 1678434733000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78479",
+            "name": "The Bitcoiner",
             "collection_item_id": "66",
             "inscription_id": "9aaa5a6a008d2c44ecd2676409c40e5831ef5af1f95add07ec531ec1da2e7adbi0",
             "image_hash": "a2287142ffdbb7bf4c59bfe155bbdde8",
@@ -3643,10 +3708,11 @@
             ],
             "number": 78479,
             "content_length": 79772,
-            "timestamp": 1686142103000
+            "timestamp": 1686142103000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78606",
+            "name": "The Bitcoiner",
             "collection_item_id": "67",
             "inscription_id": "65d8d1a8cfa4d78bbe7bb5931189e64c3951d7298873f7fb8e7c8f1ed4d2eb05i0",
             "image_hash": "f3456e56c1ff7d9eefc7776b07bb93ec",
@@ -3709,10 +3775,11 @@
             ],
             "number": 78606,
             "content_length": 74268,
-            "timestamp": 1681247663000
+            "timestamp": 1681247663000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78607",
+            "name": "The Bitcoiner",
             "collection_item_id": "68",
             "inscription_id": "c7101b1bdec2fdea79ac3e0cb14b3479fd340fdb4600370d4753d5e3d91ece09i0",
             "image_hash": "9fdce69e2e85202d7718e36a85a27787",
@@ -3770,10 +3837,11 @@
             ],
             "number": 78607,
             "content_length": 81459,
-            "timestamp": 1680618731000
+            "timestamp": 1680618731000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78615",
+            "name": "The Bitcoiner",
             "collection_item_id": "69",
             "inscription_id": "e2e2ab0ddf89ac0cea9318437800254be988618d3707b7f88b67a9e41be67b4ci0",
             "image_hash": "230dda90a057c8844af6138f9bb48522",
@@ -3831,10 +3899,11 @@
             ],
             "number": 78615,
             "content_length": 74360,
-            "timestamp": 1680619208000
+            "timestamp": 1680619208000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78661",
+            "name": "The Hodler",
             "collection_item_id": "70",
             "inscription_id": "60aa596dcffff3e2564e50bf5ccffa8dd5410595c85a595614e46b0225317263i0",
             "image_hash": "6dd2834c5455aa961d099f1e39bb665f",
@@ -3892,10 +3961,11 @@
             ],
             "number": 78661,
             "content_length": 73132,
-            "timestamp": 1678109655000
+            "timestamp": 1678109655000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78662",
+            "name": "The Hodler",
             "collection_item_id": "71",
             "inscription_id": "0b5ac5e792dd8704b6964ce23f1929db8c01992a4ec3b2cea47fe63805e33264i0",
             "image_hash": "03ef6bb3529318fe7fc027239d3737a0",
@@ -3953,10 +4023,11 @@
             ],
             "number": 78662,
             "content_length": 67475,
-            "timestamp": 1686756235000
+            "timestamp": 1686756235000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78667",
+            "name": "The Hodler",
             "collection_item_id": "72",
             "inscription_id": "5eb9f6b7fbe8e52ab38330bde30ae22f0845826e7d8a39631b100a0a9ea8236ai0",
             "image_hash": "9a4863d43bd282a849742b115a2fc6f3",
@@ -4014,10 +4085,11 @@
             ],
             "number": 78667,
             "content_length": 69310,
-            "timestamp": 1680626903000
+            "timestamp": 1680626903000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78701",
+            "name": "The Hodler",
             "collection_item_id": "73",
             "inscription_id": "2bccf73805ba650bb5fb11f74f565a59cb3a812f7fd97392dcdecfcdf9fe0691i0",
             "image_hash": "c4797e1449f9a5f6f9ba56a9513782b8",
@@ -4075,10 +4147,11 @@
             ],
             "number": 78701,
             "content_length": 71689,
-            "timestamp": 1678171594000
+            "timestamp": 1678171594000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #78850",
+            "name": "The Hodler",
             "collection_item_id": "74",
             "inscription_id": "e3e04215205258688e8fcd8a7e64406cde3f8f2ff72c44c1c6695420aa81f6cdi0",
             "image_hash": "4c0df883a1aec3a5b8624ee94e323b06",
@@ -4136,10 +4209,11 @@
             ],
             "number": 78850,
             "content_length": 71964,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #79139",
+            "name": "The Bitcoiner",
             "collection_item_id": "75",
             "inscription_id": "ab7348e5455d165e5739e04c72c319d6a0dfcb1c105f77e3c465ab6174de52e9i0",
             "image_hash": "0ea86a275bd4032a90845569a153e406",
@@ -4202,10 +4276,11 @@
             ],
             "number": 79139,
             "content_length": 75517,
-            "timestamp": 1680679339000
+            "timestamp": 1680679339000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #79215",
+            "name": "The Hodler",
             "collection_item_id": "76",
             "inscription_id": "982a24663c222d7aadf54e8d3772e39dff0024b3f2b57c5cfa244f7bacb853f9i0",
             "image_hash": "f30c913d6e64df9e8ea88bd55f574368",
@@ -4263,10 +4338,11 @@
             ],
             "number": 79215,
             "content_length": 72250,
-            "timestamp": 1680679339000
+            "timestamp": 1680679339000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #79218",
+            "name": "The Hodler",
             "collection_item_id": "77",
             "inscription_id": "13f443064dc2110629172636ec47c31c60101d198d92ea096b619562dd8546fbi0",
             "image_hash": "1fa9469eb6abddbead631c99f7c818a5",
@@ -4324,10 +4400,11 @@
             ],
             "number": 79218,
             "content_length": 69774,
-            "timestamp": 1678090219000
+            "timestamp": 1678090219000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #79219",
+            "name": "The Hodler",
             "collection_item_id": "78",
             "inscription_id": "75674bd5672e88e2f2bc5b15f66398b493e8086d9e4de37f1bad68cbc0457bfci0",
             "image_hash": "66f7da4d98cc95679a7fcf7cd3102973",
@@ -4385,10 +4462,11 @@
             ],
             "number": 79219,
             "content_length": 68156,
-            "timestamp": 1678540611000
+            "timestamp": 1678540611000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #86503",
+            "name": "The Hodler",
             "collection_item_id": "79",
             "inscription_id": "669f56d60c3402ea51a11a8e451630f959e2d5412f6af68c01525326d2ce15eai0",
             "image_hash": "8c41fc44b878f805345f147224671d30",
@@ -4441,10 +4519,11 @@
             ],
             "number": 86503,
             "content_length": 150440,
-            "timestamp": 1678123721000
+            "timestamp": 1678123721000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #86679",
+            "name": "The Hodler",
             "collection_item_id": "80",
             "inscription_id": "55d89b68c77579e22c27ce883ba6a0b4bfbc24e18bfe840583b824cea035a88ai0",
             "image_hash": "290cd5b02689b658a5bef2064d2b750b",
@@ -4497,10 +4576,11 @@
             ],
             "number": 86679,
             "content_length": 150238,
-            "timestamp": 1684899787000
+            "timestamp": 1684899787000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #86783",
+            "name": "The Hodler",
             "collection_item_id": "81",
             "inscription_id": "db5e5c6be7d1ce2f161a34670ff4f8f50ede70fea2a3c04cf33c650bec7c4946i0",
             "image_hash": "7b0d0dad0005483ae507a69ff18cb93a",
@@ -4553,10 +4633,11 @@
             ],
             "number": 86783,
             "content_length": 150302,
-            "timestamp": 1680627288000
+            "timestamp": 1680627288000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #86784",
+            "name": "The Hodler",
             "collection_item_id": "82",
             "inscription_id": "8d4db488156d237524724f22b12e4992d76d405bef747beca63e4453cbc6b551i0",
             "image_hash": "62826a0aadc38d1368bb856651000d15",
@@ -4609,10 +4690,11 @@
             ],
             "number": 86784,
             "content_length": 142095,
-            "timestamp": 1681111888000
+            "timestamp": 1681111888000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #89360",
+            "name": "The Maxi",
             "collection_item_id": "83",
             "inscription_id": "a51132ab559ec25c4b83d9111b751e58b4d205b714bc1c02eee086f420a62f04i0",
             "image_hash": "80e69cebf265c91441774d6d47d8aed9",
@@ -4665,10 +4747,11 @@
             ],
             "number": 89360,
             "content_length": 147367,
-            "timestamp": 1678111730000
+            "timestamp": 1678111730000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90243",
+            "name": "The Maxi",
             "collection_item_id": "84",
             "inscription_id": "40fd9746544b2bd6de2d5d49e380efff832e40167d63d445627a165eca5c14b4i0",
             "image_hash": "7ef9f581b5bbf7241aa4ee8fd78eb268",
@@ -4721,10 +4804,11 @@
             ],
             "number": 90243,
             "content_length": 148241,
-            "timestamp": 1683864607000
+            "timestamp": 1683864607000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90244",
+            "name": "The Maxi",
             "collection_item_id": "85",
             "inscription_id": "d83fcab9d948b407af9d6f2885516fef65a11f03d5c5d2036f162357566e1c08i0",
             "image_hash": "f0465484a8feaccff1606911394c2e63",
@@ -4777,10 +4861,11 @@
             ],
             "number": 90244,
             "content_length": 144201,
-            "timestamp": 1680964788000
+            "timestamp": 1680964788000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90245",
+            "name": "The Hero",
             "collection_item_id": "86",
             "inscription_id": "3fb5ff23b0c8c10427c2b327a034716dfc687ed6974a3e0464a35b915bf44e0bi0",
             "image_hash": "4718c0b65d8c39d176c94c92edceaa5c",
@@ -4833,10 +4918,11 @@
             ],
             "number": 90245,
             "content_length": 228665,
-            "timestamp": 1678096476000
+            "timestamp": 1678096476000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #90267",
+            "name": "The Maxi",
             "collection_item_id": "87",
             "inscription_id": "c0aef0c173284f3bf198beabd517d1a6a7ae0dd8af34ee082e26ee74c55d2475i0",
             "image_hash": "74e031a06559f1f2437300ef900d4052",
@@ -4889,10 +4975,11 @@
             ],
             "number": 90267,
             "content_length": 142352,
-            "timestamp": 1680200993000
+            "timestamp": 1680200993000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90681",
+            "name": "The Maxi",
             "collection_item_id": "88",
             "inscription_id": "410600acee60383cca80b19e4dd9210fc1e7322bb0ec73d9265ec1cb30a35e35i0",
             "image_hash": "3c3361612140ccefe2fd11342591472d",
@@ -4945,10 +5032,11 @@
             ],
             "number": 90681,
             "content_length": 152145,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90693",
+            "name": "The Maxi",
             "collection_item_id": "89",
             "inscription_id": "73d59ac9113a35ecbd1eceed81aec747f93cfa21a70df2d4ffac3b5fd185748fi0",
             "image_hash": "2381b3999091755e27020f94200567c5",
@@ -5001,10 +5089,11 @@
             ],
             "number": 90693,
             "content_length": 151272,
-            "timestamp": 1681247663000
+            "timestamp": 1681247663000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #90980",
+            "name": "The Dutchman",
             "collection_item_id": "90",
             "inscription_id": "0384ddb2597bcb3bcbc2aa21117a9bf574dc4c82ea00585b2f7ea150adfd0991i0",
             "image_hash": "a94d6ba266726d821ce9ddc720ff3714",
@@ -5057,10 +5146,11 @@
             ],
             "number": 90980,
             "content_length": 96586,
-            "timestamp": 1678112353000
+            "timestamp": 1678112353000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #91106",
+            "name": "The Maxi",
             "collection_item_id": "91",
             "inscription_id": "9aa9932e1434bea8f3f40dc2cba8dd8ce98d52849316858088fbceeeb12286fdi0",
             "image_hash": "c6402002795a506298e01db0b988b37e",
@@ -5113,10 +5203,11 @@
             ],
             "number": 91106,
             "content_length": 135287,
-            "timestamp": 1680620088000
+            "timestamp": 1680620088000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #91160",
+            "name": "The Maxi",
             "collection_item_id": "92",
             "inscription_id": "1ced3e2cce23ee74eb79af4b776146793a8f8909df1db09ba2910e9e58499760i0",
             "image_hash": "de2f4f89f20b798504d31e7b873a1ce9",
@@ -5169,10 +5260,11 @@
             ],
             "number": 91160,
             "content_length": 144048,
-            "timestamp": 1678171594000
+            "timestamp": 1678171594000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #91174",
+            "name": "The Maxi",
             "collection_item_id": "93",
             "inscription_id": "87868180297c5b71940da2e3f91a63ba9a460f34feee420c34853638b77cb6d8i0",
             "image_hash": "49594449c9c8d4271cd16e33661e11b7",
@@ -5225,10 +5317,11 @@
             ],
             "number": 91174,
             "content_length": 140207,
-            "timestamp": 1680626830000
+            "timestamp": 1680626830000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #91399",
+            "name": "The Maxi",
             "collection_item_id": "94",
             "inscription_id": "ab9b366df9a6f80cafa89208f6341833ad17fe02013d37ad29a87c1a7255d21bi0",
             "image_hash": "cd9ba50bd71d5a1689bed61fdb94cc0b",
@@ -5281,10 +5374,11 @@
             ],
             "number": 91399,
             "content_length": 136623,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #91570",
+            "name": "The Maxi",
             "collection_item_id": "95",
             "inscription_id": "03ed69d3d008e2f384173357cada850e5e6754ac0efd1e479b3da9e028464ae4i0",
             "image_hash": "ade3e1baa3e8c4d2dfb4f0f641094a86",
@@ -5337,10 +5431,11 @@
             ],
             "number": 91570,
             "content_length": 140970,
-            "timestamp": 1678119475000
+            "timestamp": 1678119475000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #93180",
+            "name": "The Influencer",
             "collection_item_id": "96",
             "inscription_id": "ce214320a6fcec5b07201158f94080733448a6916348eeb67400404d41e907f8i0",
             "image_hash": "92fcd867a95fdb2f50ddcb244f06e4be",
@@ -5388,10 +5483,11 @@
             ],
             "number": 93180,
             "content_length": 124521,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #93182",
+            "name": "The Influencer",
             "collection_item_id": "97",
             "inscription_id": "34aeeae3dbef2ad46dcf32028722a8b87779584303aa38f06572ab8934cd9427i0",
             "image_hash": "30d21c2bf8d09c2667496c603b5c4177",
@@ -5439,10 +5535,11 @@
             ],
             "number": 93182,
             "content_length": 125349,
-            "timestamp": 1678111730000
+            "timestamp": 1678111730000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #93451",
+            "name": "The Influencer",
             "collection_item_id": "98",
             "inscription_id": "6bc96d0d4a783401ee01b52b8240af25b1253737a162949a0bea6650de9c57bei0",
             "image_hash": "b8d29a0e6db53220f4ea869a510c35f4",
@@ -5490,10 +5587,11 @@
             ],
             "number": 93451,
             "content_length": 121474,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #95944",
+            "name": "The Influencer",
             "collection_item_id": "99",
             "inscription_id": "f041b0e9dcecb7b934c879fef401fba386524877fe3a6702c3bc3037be00b458i0",
             "image_hash": "196ab47992775e887c2edeb64d7eb8e3",
@@ -5546,10 +5644,11 @@
             ],
             "number": 95944,
             "content_length": 162302,
-            "timestamp": 1680761629000
+            "timestamp": 1680761629000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #95713",
+            "name": "The Influencer",
             "collection_item_id": "100",
             "inscription_id": "02b4d81605f1233bb125f7043308d6862ca294c3ba3b10743f167666d49b1eaai0",
             "image_hash": "be479ed594c2307ad32f93010a5c1d97",
@@ -5602,10 +5701,11 @@
             ],
             "number": 95713,
             "content_length": 168151,
-            "timestamp": 1680988510000
+            "timestamp": 1680988510000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #101640",
+            "name": "The Influencer",
             "collection_item_id": "101",
             "inscription_id": "b72e37e1b0555cc22a35e87c83d840e2761df00999379fa17f67e2244bb9966ei0",
             "image_hash": "577f0a3612cad0f09fa7a8841363eff5",
@@ -5658,10 +5758,11 @@
             ],
             "number": 101640,
             "content_length": 164731,
-            "timestamp": 1679037669000
+            "timestamp": 1679037669000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105340",
+            "name": "The Maxi",
             "collection_item_id": "102",
             "inscription_id": "3daa74eb8836113cfcd2e6a6b5ebb35fd58a87cddd1d4f55b3601e9070fabb79i0",
             "image_hash": "f6546f5c2d23710cd949401382457047",
@@ -5714,10 +5815,11 @@
             ],
             "number": 105340,
             "content_length": 149915,
-            "timestamp": 1678117445000
+            "timestamp": 1678117445000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105451",
+            "name": "The Dev",
             "collection_item_id": "103",
             "inscription_id": "21dbd018afe4a13ae10a032eb4e500f0c0335726ec4b3e379c4b3c04cd6f465bi0",
             "image_hash": "fca7c02c129b50c08657095b300a4172",
@@ -5770,10 +5872,11 @@
             ],
             "number": 105451,
             "content_length": 142528,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #105453",
+            "name": "The Maxi",
             "collection_item_id": "104",
             "inscription_id": "ba27736f01d04a5b0eabb75f8466af71a3f8ca46d1ad315de396ebe5bb58d5fai0",
             "image_hash": "a1e3626ba35f35186355c46f4d0bd18f",
@@ -5826,10 +5929,11 @@
             ],
             "number": 105453,
             "content_length": 144329,
-            "timestamp": 1678096476000
+            "timestamp": 1678096476000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105535",
+            "name": "The Maxi",
             "collection_item_id": "105",
             "inscription_id": "669addbbd7370c354680017a86818a10c2e4a419547a8ad17aa759c571b7d813i0",
             "image_hash": "934c2ecd367dbc1f19453477e6303c11",
@@ -5882,10 +5986,11 @@
             ],
             "number": 105535,
             "content_length": 148314,
-            "timestamp": 1685689850000
+            "timestamp": 1685689850000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105540",
+            "name": "The Maxi",
             "collection_item_id": "106",
             "inscription_id": "00e50a3497802deb785c513a09f30abca284bd95e52f034628b9f9f39365578ci0",
             "image_hash": "05a8aaaeaf2499652ac79e2ad2f2d2ae",
@@ -5938,10 +6043,11 @@
             ],
             "number": 105540,
             "content_length": 145781,
-            "timestamp": 1679674161000
+            "timestamp": 1679674161000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105560",
+            "name": "The Maxi",
             "collection_item_id": "107",
             "inscription_id": "21414486b6e4ba56faad57d85e69d429a54a57727c6b7ca4751c5344f4600fbdi0",
             "image_hash": "caeeafb98b1fb3d585bd867e0eda525a",
@@ -5994,10 +6100,11 @@
             ],
             "number": 105560,
             "content_length": 140186,
-            "timestamp": 1680626903000
+            "timestamp": 1680626903000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105616",
+            "name": "The Maxi",
             "collection_item_id": "108",
             "inscription_id": "7ce4ce391aa52702b77dca32697d05005d49290284a64f0b9ae677099b2e21d8i0",
             "image_hash": "61b7f0ee68e34ed1f6310831d4956ffd",
@@ -6050,10 +6157,11 @@
             ],
             "number": 105616,
             "content_length": 138764,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105762",
+            "name": "The Influencer",
             "collection_item_id": "109",
             "inscription_id": "96eedafaa8859a0aedf8e413527e37ade97ad239c1f3b8fc97e3012c3e13e417i0",
             "image_hash": "c60c47ff54fd016938ea8c38ff61b9e3",
@@ -6106,10 +6214,11 @@
             ],
             "number": 105762,
             "content_length": 162904,
-            "timestamp": 1684787240000
+            "timestamp": 1684787240000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105869",
+            "name": "The Hodler",
             "collection_item_id": "110",
             "inscription_id": "7f47c6cb924c551e7e393395b6fc970cd07ab6f582f947675a70702ec777bf2fi0",
             "image_hash": "4a7f6c6984c6f24667450cf7dda55afe",
@@ -6162,10 +6271,11 @@
             ],
             "number": 105869,
             "content_length": 151400,
-            "timestamp": 1683811724000
+            "timestamp": 1683811724000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #105878",
+            "name": "The Influencer",
             "collection_item_id": "111",
             "inscription_id": "1c4e2951a6923badb856b539159975cf51574c5e0199229c5304432da22f8b33i0",
             "image_hash": "4e68b707c3e796034a6e86097314ee0a",
@@ -6213,10 +6323,11 @@
             ],
             "number": 105878,
             "content_length": 125746,
-            "timestamp": 1680964788000
+            "timestamp": 1680964788000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #105893",
+            "name": "The Influencer",
             "collection_item_id": "112",
             "inscription_id": "38b53ee065b65876a52839c281084ac854fbdd69d0424325fea04289cd01fd3ai0",
             "image_hash": "9d402ec05a7a3ad007830e026b384434",
@@ -6264,10 +6375,11 @@
             ],
             "number": 105893,
             "content_length": 121633,
-            "timestamp": 1683663473000
+            "timestamp": 1683663473000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #106113",
+            "name": "The Hodler",
             "collection_item_id": "113",
             "inscription_id": "62017cfc3e3626a5230667d512bb3884ef8ac951d90d0aa60c9a3b72dc557052i0",
             "image_hash": "4bf44a21b81d4f4ae6e41db3868a8fbf",
@@ -6320,10 +6432,11 @@
             ],
             "number": 106113,
             "content_length": 140314,
-            "timestamp": 1685860278000
+            "timestamp": 1685860278000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #106679",
+            "name": "The Dutchman",
             "collection_item_id": "114",
             "inscription_id": "616cc8bd18ae42cc9925876fa8aed537fbca35167fd40162d768d5c6aa38bd8ci0",
             "image_hash": "3b62ce24677b10287ff01e1501bc7cc8",
@@ -6376,10 +6489,11 @@
             ],
             "number": 106679,
             "content_length": 98835,
-            "timestamp": 1678120704000
+            "timestamp": 1678120704000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #109919",
+            "name": "The 3D Spectator",
             "collection_item_id": "115",
             "inscription_id": "8978b8a2785eb2c9211ec20393a83290eaa4273454813a308654b0040c802b0ei0",
             "image_hash": "6223c8d883dc6810767401aab4b594d8",
@@ -6432,10 +6546,11 @@
             ],
             "number": 109919,
             "content_length": 158984,
-            "timestamp": 1678109655000
+            "timestamp": 1678109655000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #109926",
+            "name": "The Rapper",
             "collection_item_id": "116",
             "inscription_id": "31863d1784cb46ce413afe332022e878d98c5727ae7074f169757782509d456ci0",
             "image_hash": "fa46193c340e956d175cd6a6826165ab",
@@ -6493,10 +6608,11 @@
             ],
             "number": 109926,
             "content_length": 160333,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #109964",
+            "name": "The Dev",
             "collection_item_id": "117",
             "inscription_id": "5027b0ff3f02688073375a7ed4bbb6beb2d29dab461c2790452a89fc99b05dffi0",
             "image_hash": "b8ee3509c454994f77259e2c3994444a",
@@ -6549,10 +6665,11 @@
             ],
             "number": 109964,
             "content_length": 143870,
-            "timestamp": 1684060250000
+            "timestamp": 1684060250000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #109971",
+            "name": "The Rapper",
             "collection_item_id": "118",
             "inscription_id": "fa1d81efef08bf545ab14f3729028f57c437f3d1e8f031abd98b58056e095b3bi0",
             "image_hash": "ae4fed287412ef19626cd63bc6276c48",
@@ -6610,10 +6727,11 @@
             ],
             "number": 109971,
             "content_length": 171845,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #109972",
+            "name": "The 3D Spectator",
             "collection_item_id": "119",
             "inscription_id": "5ffa237fc5c2831ea64875deacf3ff79588fdd9da01e8a2faaa300c90437d73fi0",
             "image_hash": "4b0fa2c083ff30e04ef2ddeee2ec55cd",
@@ -6666,10 +6784,11 @@
             ],
             "number": 109972,
             "content_length": 179918,
-            "timestamp": 1685088626000
+            "timestamp": 1685088626000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #109973",
+            "name": "The Dev",
             "collection_item_id": "120",
             "inscription_id": "a02c6e20ef90169c1a611e4f9ab83e1375b81e1e444044060dfced1e45132f4ei0",
             "image_hash": "529849dc0125098bfabe3944de6d22fe",
@@ -6722,10 +6841,11 @@
             ],
             "number": 109973,
             "content_length": 144206,
-            "timestamp": 1678118364000
+            "timestamp": 1678118364000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #109976",
+            "name": "The Dev",
             "collection_item_id": "121",
             "inscription_id": "1c1d6b9293e89e91e7a21926bc5980b8ba3f9fce44bf7e0feac60c52aac6d98bi0",
             "image_hash": "9de3a72a9685184d267419350d32b66a",
@@ -6778,10 +6898,11 @@
             ],
             "number": 109976,
             "content_length": 141917,
-            "timestamp": 1682189323000
+            "timestamp": 1682189323000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #109977",
+            "name": "The 3D Spectator",
             "collection_item_id": "122",
             "inscription_id": "0039488c9789088d4dbda4b464509a8e64b8d47e24514eac2973cb8e457604c0i0",
             "image_hash": "dba5f808c6e3aef785c9eb2aed110dea",
@@ -6834,10 +6955,11 @@
             ],
             "number": 109977,
             "content_length": 171110,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #109978",
+            "name": "The Rapper",
             "collection_item_id": "123",
             "inscription_id": "d96c4b7a63f6311de7f16a2b05314df53e14aa6b9adbc519c36b64fac4df06c5i0",
             "image_hash": "1d27acf159e0d25680712ad4b5d43ef1",
@@ -6895,10 +7017,11 @@
             ],
             "number": 109978,
             "content_length": 150749,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #109979",
+            "name": "The Dev",
             "collection_item_id": "124",
             "inscription_id": "d44bb766f5562924ade6ab67b6c26baeadf88fe01b13db65e33b6dbb6605b7cfi0",
             "image_hash": "97426076b2df25d5083d981f873b4d18",
@@ -6951,10 +7074,11 @@
             ],
             "number": 109979,
             "content_length": 133963,
-            "timestamp": 1682059265000
+            "timestamp": 1682059265000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #109980",
+            "name": "The Dev",
             "collection_item_id": "125",
             "inscription_id": "00fb675e0d8d1170c59f68510e49c3050164e1857f8bfda62e48facb157049d1i0",
             "image_hash": "753167d466de681996c148563bfcd3af",
@@ -7007,10 +7131,11 @@
             ],
             "number": 109980,
             "content_length": 134331,
-            "timestamp": 1678111587000
+            "timestamp": 1678111587000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #109999",
+            "name": "The DJ",
             "collection_item_id": "126",
             "inscription_id": "a9cdbfeacc93d1c0f17910e896144e980eb5958d064d627ef8c75629edca4417i0",
             "image_hash": "1673fab2b706ec7129d2f8aaf9524569",
@@ -7068,10 +7193,11 @@
             ],
             "number": 109999,
             "content_length": 127180,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110003",
+            "name": "The DJ",
             "collection_item_id": "127",
             "inscription_id": "5706c4a1599bb177975bbf4b061e70a7c1ff2a7c517f45870745ebc3cda4428ci0",
             "image_hash": "83c286e4160dd429a49f35edb2baa27d",
@@ -7129,10 +7255,11 @@
             ],
             "number": 110003,
             "content_length": 119037,
-            "timestamp": 1684580100000
+            "timestamp": 1684580100000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110005",
+            "name": "The DJ",
             "collection_item_id": "128",
             "inscription_id": "b05c583ab22ab61fdb4a0d9acc7359c194f4b8910346e8a8621c8a5c29f21b3ai0",
             "image_hash": "4b5cbe56f01a38a6cce4b61075783b2b",
@@ -7190,10 +7317,11 @@
             ],
             "number": 110005,
             "content_length": 115903,
-            "timestamp": 1681737834000
+            "timestamp": 1681737834000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110006",
+            "name": "The Rapper",
             "collection_item_id": "129",
             "inscription_id": "f36058810a3fee19510c797490e7cc89030b99c0d9bde466811fba4e72682ab6i0",
             "image_hash": "51442257117e2c18e8f5fa4866bcda98",
@@ -7251,10 +7379,11 @@
             ],
             "number": 110006,
             "content_length": 176243,
-            "timestamp": 1683957780000
+            "timestamp": 1683957780000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110007",
+            "name": "The DJ",
             "collection_item_id": "130",
             "inscription_id": "2c2fb28ec4539baeac720af7122103fe4c8d4f7290a26a815346a64e91e7f1d0i0",
             "image_hash": "4df0faa06311dc9e2eec55e98affd44c",
@@ -7312,10 +7441,11 @@
             ],
             "number": 110007,
             "content_length": 116394,
-            "timestamp": 1678109655000
+            "timestamp": 1678109655000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110008",
+            "name": "The DJ",
             "collection_item_id": "131",
             "inscription_id": "8820df109f410748291debcfc052709e6bc4816fbb5936bdf4c4cb15983c2fe4i0",
             "image_hash": "19b4c1e9edf9a11ca7c0dde4684218aa",
@@ -7373,10 +7503,11 @@
             ],
             "number": 110008,
             "content_length": 117877,
-            "timestamp": 1681247663000
+            "timestamp": 1681247663000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110012",
+            "name": "The 3D Spectator",
             "collection_item_id": "132",
             "inscription_id": "fe026c6d92abe1e6cd23e96a1104290f70c2e9a713d795f43c19f79f120e0f5bi0",
             "image_hash": "3efeaec58f3f5901fee3f4715ab88433",
@@ -7429,10 +7560,11 @@
             ],
             "number": 110012,
             "content_length": 167071,
-            "timestamp": 1678111730000
+            "timestamp": 1678111730000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #110013",
+            "name": "The Rapper",
             "collection_item_id": "133",
             "inscription_id": "17d11c58d8df677e7e89d7954505d7a7658ecaf5dfbec03d9ce7a6b94581e25bi0",
             "image_hash": "f91b249cd4e45f6cf212db465647e7aa",
@@ -7490,10 +7622,11 @@
             ],
             "number": 110013,
             "content_length": 161276,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110017",
+            "name": "The DJ",
             "collection_item_id": "134",
             "inscription_id": "3505d932823e366cb7579f40eb78a034b0aba33dd8159eb198424de04f70fb7ai0",
             "image_hash": "8c4682e2710fe8e9c6e9196d1b790254",
@@ -7551,10 +7684,11 @@
             ],
             "number": 110017,
             "content_length": 107677,
-            "timestamp": 1678117445000
+            "timestamp": 1678117445000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110021",
+            "name": "The Rapper",
             "collection_item_id": "135",
             "inscription_id": "da3fd92332965c2cf524890c02a83aacb2568e3731e02163905c1a239c005291i0",
             "image_hash": "ece56ba74afdab567c016659ec923754",
@@ -7612,10 +7746,11 @@
             ],
             "number": 110021,
             "content_length": 164004,
-            "timestamp": 1678111587000
+            "timestamp": 1678111587000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110022",
+            "name": "The 3D Spectator",
             "collection_item_id": "136",
             "inscription_id": "8a0f2bcb712c3844c625a6b469c3ea080c4605d0746403956929e18fce7b1593i0",
             "image_hash": "768c157d624b5d8b7bc9e24c2bd04135",
@@ -7668,10 +7803,11 @@
             ],
             "number": 110022,
             "content_length": 180039,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #110025",
+            "name": "The DJ",
             "collection_item_id": "137",
             "inscription_id": "fe5ede66092a9272a16d996cefef34272be4d4ce87bc9fb474e80bb87af496c7i0",
             "image_hash": "ffcb999535a1d94b2553c841d0ffd0e4",
@@ -7729,10 +7865,11 @@
             ],
             "number": 110025,
             "content_length": 108335,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110028",
+            "name": "The 3D Spectator",
             "collection_item_id": "138",
             "inscription_id": "058a72400fa4d60e26cb5b9043315f93bb4ba2651ef74e9fc19d9e364ac80eeci0",
             "image_hash": "f6c16150c91dd04a225aeaf48f26cdd2",
@@ -7785,10 +7922,11 @@
             ],
             "number": 110028,
             "content_length": 166129,
-            "timestamp": 1678625888000
+            "timestamp": 1678625888000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #110719",
+            "name": "The DJ",
             "collection_item_id": "139",
             "inscription_id": "8e728696b30cffd335c2810f2d4bf60c5dd80302b1f0ed2da32684a138e9a43bi0",
             "image_hash": "3b15013695a88bfa6d4d61b96e4b40c3",
@@ -7846,10 +7984,11 @@
             ],
             "number": 110719,
             "content_length": 126641,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110727",
+            "name": "The Suit",
             "collection_item_id": "140",
             "inscription_id": "8a85cdce974422b9588e7c38ab2ab15bf8c9ae692ccbb07fb799fbc4b12e4021i0",
             "image_hash": "f72b102ac5dfe0fab2b8c9aa0c3f75d9",
@@ -7907,10 +8046,11 @@
             ],
             "number": 110727,
             "content_length": 128162,
-            "timestamp": 1678123721000
+            "timestamp": 1678123721000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110739",
+            "name": "The Suit",
             "collection_item_id": "141",
             "inscription_id": "8b86d801ee821b7bf96b3b3c20012bec00384e9c3b144a2a4acf69dd84c8ce50i0",
             "image_hash": "c6918625b2864e3026af44911585f3d5",
@@ -7968,10 +8108,11 @@
             ],
             "number": 110739,
             "content_length": 118813,
-            "timestamp": 1678184934000
+            "timestamp": 1678184934000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110779",
+            "name": "The Suit",
             "collection_item_id": "142",
             "inscription_id": "d327d6080bb3c66d280b8df4b9f179b9a75e3cc9ce0f069a109c540ee95134f9i0",
             "image_hash": "4c4fd4dfb55ed3d55f7e22813719bedd",
@@ -8029,10 +8170,11 @@
             ],
             "number": 110779,
             "content_length": 127581,
-            "timestamp": 1676492711000
+            "timestamp": 1676492711000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110782",
+            "name": "The Suit",
             "collection_item_id": "143",
             "inscription_id": "e1cf9287ff9f8fd4d833dce8586ba051681c48ce6bb6aa6cf9ad6b6c4d145fa3i0",
             "image_hash": "9572991c91abc63e28f8fe6dd491673b",
@@ -8090,10 +8232,11 @@
             ],
             "number": 110782,
             "content_length": 116602,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #110865",
+            "name": "The DJ",
             "collection_item_id": "144",
             "inscription_id": "a117445bb77b546cb5c57dc15ccfa3d4e6f8672a35a7c854516442d8d56c7714i0",
             "image_hash": "fd4dba62ecfa0d263f26a87a16cc0063",
@@ -8151,10 +8294,11 @@
             ],
             "number": 110865,
             "content_length": 129607,
-            "timestamp": 1681350095000
+            "timestamp": 1681350095000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110868",
+            "name": "The DJ",
             "collection_item_id": "145",
             "inscription_id": "86a813eb75e67b2871b6e5c0b58f339cbe9c02c3c80507961eaf0b5ab0c15b2di0",
             "image_hash": "fff3cf88545069442b17a221760e523e",
@@ -8212,10 +8356,11 @@
             ],
             "number": 110868,
             "content_length": 127804,
-            "timestamp": 1678117445000
+            "timestamp": 1678117445000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110879",
+            "name": "The DJ",
             "collection_item_id": "146",
             "inscription_id": "b1f91d91c51820ebadd1807d97c6d6c9faf37669efa017e17963087056a20f36i0",
             "image_hash": "244ef80c461b5bd12eb4d7808bca51ca",
@@ -8273,10 +8418,11 @@
             ],
             "number": 110879,
             "content_length": 118579,
-            "timestamp": 1680620697000
+            "timestamp": 1680620697000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #110991",
+            "name": "The Suit",
             "collection_item_id": "147",
             "inscription_id": "bf2760bc2de3fc0d6548cfce522d8d39574a18e973fb0dc327cdbd0191195b85i0",
             "image_hash": "6d48ee33044f34124ce62460af696078",
@@ -8334,10 +8480,11 @@
             ],
             "number": 110991,
             "content_length": 127472,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #111081",
+            "name": "The DJ",
             "collection_item_id": "148",
             "inscription_id": "2b74158d63f574477176cb1b9437952c025593dc1f0b295f74d69bcfc78ddacai0",
             "image_hash": "9889f5f51ee7b6191a5acaa2404c1806",
@@ -8395,10 +8542,11 @@
             ],
             "number": 111081,
             "content_length": 68563,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Cool"
         },
         {
-            "name": "Ordinal Bull #116131",
+            "name": "The Influencer",
             "collection_item_id": "149",
             "inscription_id": "df101394521c5c3eb5b404e954d5e147ef5be6fec353988399f7f38ee36f1bdbi0",
             "image_hash": "2b4bead88d0a6dfc613e07d9661133bf",
@@ -8446,10 +8594,11 @@
             ],
             "number": 116131,
             "content_length": 124650,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #116369",
+            "name": "The Influencer",
             "collection_item_id": "150",
             "inscription_id": "3fa373e52db28018797fdcce16a2b4e60a26a2a0e6a8d6c7b0566aa0948fecf0i0",
             "image_hash": "e316a29c79ee88189ee3d9357147d0b6",
@@ -8502,10 +8651,11 @@
             ],
             "number": 116369,
             "content_length": 165261,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #116371",
+            "name": "The Influencer",
             "collection_item_id": "151",
             "inscription_id": "42a3fd631bdaa8966bc7d87edc85d6fbe4da6dc9ac04b1cc9e7d6954a3f435f1i0",
             "image_hash": "fb06896bb97052f92d75700bbe60dd07",
@@ -8558,10 +8708,11 @@
             ],
             "number": 116371,
             "content_length": 167387,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #120791",
+            "name": "The Cowboy",
             "collection_item_id": "152",
             "inscription_id": "419c0c3bd985855f6e50eb2ee70ae79919a10ba6baebb3c2e2ac0653b5fc1c09i0",
             "image_hash": "0c6de03f8376bc510bd1fa8ae26a9a00",
@@ -8614,10 +8765,11 @@
             ],
             "number": 120791,
             "content_length": 220922,
-            "timestamp": 1678875025000
+            "timestamp": 1678875025000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #121423",
+            "name": "The Cowboy",
             "collection_item_id": "153",
             "inscription_id": "d64df54cf379c2aaf54e1c9e770c3127b16258995b04e5d7c202064db85284cdi0",
             "image_hash": "eb4c0ea38eff231d58b7de9b0760465b",
@@ -8670,10 +8822,11 @@
             ],
             "number": 121423,
             "content_length": 218722,
-            "timestamp": 1678096476000
+            "timestamp": 1678096476000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #121425",
+            "name": "The Cowboy",
             "collection_item_id": "154",
             "inscription_id": "ccda0d11ef4a89e9c0df6a9d8c8103b05f8e675846a10925de6bf4e9a7bdbd0ai0",
             "image_hash": "9ebf28708aaa5a2b5b23d7c94f25e8df",
@@ -8726,10 +8879,11 @@
             ],
             "number": 121425,
             "content_length": 211731,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #121554",
+            "name": "The Cowboy",
             "collection_item_id": "155",
             "inscription_id": "5231d13167da738627aec2b35e5973f1caa0d074b64cbbb655913a42fab817a3i0",
             "image_hash": "8f570ed578c9bf9922759b1a06f42a17",
@@ -8782,10 +8936,11 @@
             ],
             "number": 121554,
             "content_length": 214347,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #121923",
+            "name": "The Cowboy",
             "collection_item_id": "156",
             "inscription_id": "dd0e8113985772e9bdd402830eed491d328a85e12df85e277dc1a67ff592d8a5i0",
             "image_hash": "8b05666d326335a661ed2bc033ec53b1",
@@ -8838,10 +8993,11 @@
             ],
             "number": 121923,
             "content_length": 223137,
-            "timestamp": 1685084549000
+            "timestamp": 1685084549000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122296",
+            "name": "The O.G.",
             "collection_item_id": "157",
             "inscription_id": "26815e3407718009b41ee32846798fc7793385954d7d1eca962ace036ffd6a2fi0",
             "image_hash": "20a825f0ee0cd72bcabf31c21dd6ca7d",
@@ -8889,10 +9045,11 @@
             ],
             "number": 122296,
             "content_length": 112494,
-            "timestamp": 1680626903000
+            "timestamp": 1680626903000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #122357",
+            "name": "The Cowboy",
             "collection_item_id": "158",
             "inscription_id": "ddfd987f84c329ac4d6a17b03d3c74bf5ef490ab4858bd9c5de2c9f69982afadi0",
             "image_hash": "c3bf8bffc847f4d9cb0794fa3c78107f",
@@ -8945,10 +9102,11 @@
             ],
             "number": 122357,
             "content_length": 221371,
-            "timestamp": 1679644642000
+            "timestamp": 1679644642000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122450",
+            "name": "The O.G.",
             "collection_item_id": "159",
             "inscription_id": "06c52023d370b5aec3eccf28de67b80c576b26347e34dd1b0a03ab80005fc01fi0",
             "image_hash": "034681fec31bb2e238e2b1a3641d56f4",
@@ -8996,10 +9154,11 @@
             ],
             "number": 122450,
             "content_length": 122178,
-            "timestamp": 1680622984000
+            "timestamp": 1680622984000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #122452",
+            "name": "The O.G.",
             "collection_item_id": "160",
             "inscription_id": "962943d44b738521f5253f1151f3ea8b793ce448efc34063bfc4e844e0c4933ai0",
             "image_hash": "7a0d74ad28a193f7fd17011fe6e73e5d",
@@ -9047,10 +9206,11 @@
             ],
             "number": 122452,
             "content_length": 109605,
-            "timestamp": 1680620088000
+            "timestamp": 1680620088000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #122453",
+            "name": "The O.G.",
             "collection_item_id": "161",
             "inscription_id": "3d8e2c1456e3dc2123a260a718dd51943c84d8ab2ffd6c9cce1960685c5f4262i0",
             "image_hash": "1575e093c60eec7795fe0b74bba196aa",
@@ -9098,10 +9258,11 @@
             ],
             "number": 122453,
             "content_length": 120088,
-            "timestamp": 1680621581000
+            "timestamp": 1680621581000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #122961",
+            "name": "The Racer",
             "collection_item_id": "162",
             "inscription_id": "4e24d7f463784170bb5ac040aa10187c18f81ffba5e5729ef24cf2cf00898f53i0",
             "image_hash": "f43b41557a67879307ff9f794cab303b",
@@ -9144,10 +9305,11 @@
             ],
             "number": 122961,
             "content_length": 166639,
-            "timestamp": 1678094493000
+            "timestamp": 1678094493000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122949",
+            "name": "The Racer",
             "collection_item_id": "163",
             "inscription_id": "83b331c063c0fc024046b83e4e3f5ee3166a6589d8db97f4370d2f25fb01f1eei0",
             "image_hash": "a1c2d57962674db3496cbdbe4a149abe",
@@ -9190,10 +9352,11 @@
             ],
             "number": 122949,
             "content_length": 174920,
-            "timestamp": 1680964788000
+            "timestamp": 1680964788000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122948",
+            "name": "The Racer",
             "collection_item_id": "164",
             "inscription_id": "b349af94775b8074e2af91b71fb63feaf2bde9cae3717c860f2714a716cb9d92i0",
             "image_hash": "5235017899022e9e60f4c1f4f50fcfba",
@@ -9236,10 +9399,11 @@
             ],
             "number": 122948,
             "content_length": 165755,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122947",
+            "name": "The Racer",
             "collection_item_id": "165",
             "inscription_id": "27f3c412ea0bd71b0a6b84b066768380aad715122db72d154416cd6ab0a6998fi0",
             "image_hash": "da75a66f30bb7a144a7a74b4e8dff24c",
@@ -9282,10 +9446,11 @@
             ],
             "number": 122947,
             "content_length": 174085,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122946",
+            "name": "The Racer",
             "collection_item_id": "166",
             "inscription_id": "d7562024a8e4ae2da7d312670061f07d1d518b61b9302641d8477b48d6c06489i0",
             "image_hash": "aea78356a6d2e2929057889139d23aeb",
@@ -9328,10 +9493,11 @@
             ],
             "number": 122946,
             "content_length": 175545,
-            "timestamp": 1679678564000
+            "timestamp": 1679678564000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #122945",
+            "name": "The Racer",
             "collection_item_id": "167",
             "inscription_id": "0ff319943748aee4ba6f51fcd9aa7f22faf88cf854f02730eb9c19154fd14d16i0",
             "image_hash": "aedebd872f9da59076552a0d5f657c63",
@@ -9374,10 +9540,11 @@
             ],
             "number": 122945,
             "content_length": 174733,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123904",
+            "name": "The Racer",
             "collection_item_id": "168",
             "inscription_id": "038ffeac26455fa226908c9a59201bd8bdc25c464d6cdb18d0116fd207033de6i0",
             "image_hash": "91dcffcbb0b1b6f42774b876a388e766",
@@ -9420,10 +9587,11 @@
             ],
             "number": 123904,
             "content_length": 195663,
-            "timestamp": 1678117445000
+            "timestamp": 1678117445000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123906",
+            "name": "The Racer",
             "collection_item_id": "169",
             "inscription_id": "602795fb10cb7f88df724c90c0141a4f30d7bc4dbce022b502c59914be6c1a0ci0",
             "image_hash": "ce7f916075e13f5e303a8b41a541cf4c",
@@ -9466,10 +9634,11 @@
             ],
             "number": 123906,
             "content_length": 194916,
-            "timestamp": 1678119475000
+            "timestamp": 1678119475000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123907",
+            "name": "The Racer",
             "collection_item_id": "170",
             "inscription_id": "b939d4a5111a3b9b4e769fa25abd67f3ec6ce980e95e25b62aaf709332feca47i0",
             "image_hash": "0e811b25b95bd0281b846f2890e8a1de",
@@ -9512,10 +9681,11 @@
             ],
             "number": 123907,
             "content_length": 196749,
-            "timestamp": 1679642907000
+            "timestamp": 1679642907000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123909",
+            "name": "The Racer",
             "collection_item_id": "171",
             "inscription_id": "8cb171f93be32b4c58ba6da4333ba6c59d7af4755f1532d7668790768b9aa078i0",
             "image_hash": "926fa2e7e5238672909de3b5b54c8d35",
@@ -9558,10 +9728,11 @@
             ],
             "number": 123909,
             "content_length": 188649,
-            "timestamp": 1684653163000
+            "timestamp": 1684653163000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123910",
+            "name": "The Racer",
             "collection_item_id": "172",
             "inscription_id": "6cc9c2df7b5ae004011719a449b2e9c2eca0440b9e44f0e60c0591f62173dde3i0",
             "image_hash": "50d6224537a26f10275c7d2e9ccc8c63",
@@ -9604,10 +9775,11 @@
             ],
             "number": 123910,
             "content_length": 194416,
-            "timestamp": 1678109655000
+            "timestamp": 1678109655000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #123887",
+            "name": "The Racer",
             "collection_item_id": "173",
             "inscription_id": "1cb7542786a4ceb93514da549c91e5d981309e6a7018e40c6c06f573f2cfc32ci0",
             "image_hash": "8703035b8c3ad1c7daf2220dbf824453",
@@ -9650,10 +9822,11 @@
             ],
             "number": 123887,
             "content_length": 187657,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Special"
         },
         {
-            "name": "Ordinal Bull #129831",
+            "name": "The Detective",
             "collection_item_id": "174",
             "inscription_id": "ce410eec6b1b7f44974df692e21d0d256095f6ae3480a6fb9f1ab9bc79156186i0",
             "image_hash": "ccfcbbc8c03db3b437da28331df6b375",
@@ -9706,10 +9879,11 @@
             ],
             "number": 129831,
             "content_length": 146048,
-            "timestamp": 1685084549000
+            "timestamp": 1685084549000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #129843",
+            "name": "The Detective",
             "collection_item_id": "175",
             "inscription_id": "6ac660cf37d3d803dd91c6f88a834521501d38f52f85f0c509716c6d7c079823i0",
             "image_hash": "d0704e2dc19441ecfca8376ffc581c88",
@@ -9762,10 +9936,11 @@
             ],
             "number": 129843,
             "content_length": 144222,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #129851",
+            "name": "The Detective",
             "collection_item_id": "176",
             "inscription_id": "183d6bf1e306a6a95389d1dcbe1e40dca0d9209940b453b020cfa3c9f961f994i0",
             "image_hash": "46396ba24f1f1e145a9f43aaaa66283c",
@@ -9818,10 +9993,11 @@
             ],
             "number": 129851,
             "content_length": 145556,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #129853",
+            "name": "The Detective",
             "collection_item_id": "177",
             "inscription_id": "cafbea351052a5a8382ff6501f7a16f82baf2ceaf05c1bb646d8059f866955a7i0",
             "image_hash": "2f11602a7c5e88af08d85fbfca800e96",
@@ -9874,10 +10050,11 @@
             ],
             "number": 129853,
             "content_length": 135447,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #129856",
+            "name": "The Detective",
             "collection_item_id": "178",
             "inscription_id": "e5b1f290e6bf4252d9ef854cb696878d64c8a0b217fa6ee71fd37410e079ffd7i0",
             "image_hash": "77a8cee625d643fa00e902525edfe3f7",
@@ -9930,10 +10107,11 @@
             ],
             "number": 129856,
             "content_length": 156140,
-            "timestamp": 1678294321000
+            "timestamp": 1678294321000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #129861",
+            "name": "The Detective",
             "collection_item_id": "179",
             "inscription_id": "5e4726603c68ca704442fffb5a158511bc04d4192dd5c0483fd6bc6df28d18fbi0",
             "image_hash": "535d016fffa7752a2597b7b9783f8e52",
@@ -9986,10 +10164,11 @@
             ],
             "number": 129861,
             "content_length": 154624,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #151827",
+            "name": "The Macho",
             "collection_item_id": "180",
             "inscription_id": "ba8baa121aeb614ffc3ec155f0ed0e178731d02e8aafefb840c3a4f3c6c90288i0",
             "image_hash": "b11448152d9d9ef09623b863e2b06d42",
@@ -10042,10 +10221,11 @@
             ],
             "number": 151827,
             "content_length": 175016,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #151840",
+            "name": "The Macho",
             "collection_item_id": "181",
             "inscription_id": "b03d00ec37ccb1f17ff2c8fe6e27e0499087e6f7cff83e3b58a0b2690a70ce04i0",
             "image_hash": "f446b9bfb22ade7cb1450256c0fbe966",
@@ -10098,10 +10278,11 @@
             ],
             "number": 151840,
             "content_length": 174877,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #151844",
+            "name": "The Macho",
             "collection_item_id": "182",
             "inscription_id": "925d229b68dcc43e1c4043427544773ae45f2dc5ee298e0a50d752f33e0a84cei0",
             "image_hash": "7e27b999fc89437cd82cab691a0ef6e6",
@@ -10154,10 +10335,11 @@
             ],
             "number": 151844,
             "content_length": 173107,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #151901",
+            "name": "The Macho",
             "collection_item_id": "183",
             "inscription_id": "cca109d6fecc3efcf4e75ece6c5326d2dcf82b2dc64e78bc4938bd92e9f103f5i0",
             "image_hash": "612355697b9ce10945302585dea72601",
@@ -10210,10 +10392,11 @@
             ],
             "number": 151901,
             "content_length": 172377,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #156316",
+            "name": "The Boxer",
             "collection_item_id": "184",
             "inscription_id": "e1ff1f6d8756e9f2f36ffb033be4470585e949ccedfb04e1f9200d25926869c1i0",
             "image_hash": "18087edf6ae83a02a00fcc03cd0c1408",
@@ -10256,10 +10439,11 @@
             ],
             "number": 156316,
             "content_length": 150359,
-            "timestamp": 1678111730000
+            "timestamp": 1678111730000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #156330",
+            "name": "The Boxer",
             "collection_item_id": "185",
             "inscription_id": "57a553695eb524560a2ffc89da0793ab96bedfe1fa17cb5cbd9dc4adbc6129bai0",
             "image_hash": "2543ca5df91a346596cd0527899473ae",
@@ -10302,10 +10486,11 @@
             ],
             "number": 156330,
             "content_length": 159636,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #156331",
+            "name": "The Boxer",
             "collection_item_id": "186",
             "inscription_id": "bb5bcb1861c26465114911e653ad2b28e516dca0e5526ed9c4aa0ac838d23602i0",
             "image_hash": "a98b47605192ce4ea232c16108075a75",
@@ -10348,10 +10533,11 @@
             ],
             "number": 156331,
             "content_length": 169803,
-            "timestamp": 1685083604000
+            "timestamp": 1685083604000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #156332",
+            "name": "The Boxer",
             "collection_item_id": "187",
             "inscription_id": "aae31db234dc3666bd9964758486c8ba8de09eb5b9c00810c3e985534af23579i0",
             "image_hash": "7e9f0bec4cc6d619211fef52a749f840",
@@ -10394,10 +10580,11 @@
             ],
             "number": 156332,
             "content_length": 159424,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #157934",
+            "name": "The Macho",
             "collection_item_id": "188",
             "inscription_id": "6d82fdbf511056bc6969f4867ead90751cbae832ffd6f013894e88dbe8969ce7i0",
             "image_hash": "0bc0d93efb68358414de251bd3460419",
@@ -10450,10 +10637,11 @@
             ],
             "number": 157934,
             "content_length": 177061,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #158164",
+            "name": "The Macho",
             "collection_item_id": "189",
             "inscription_id": "fcd0bbe30ed6c4b8a4540181c89dd58e98cb8598ee0d0869a54a4c12c9428714i0",
             "image_hash": "d9248eec0388e59df252d26c67e3bd50",
@@ -10506,10 +10694,11 @@
             ],
             "number": 158164,
             "content_length": 176723,
-            "timestamp": 1685087972000
+            "timestamp": 1685087972000,
+            "rarity": "Rare"
         },
         {
-            "name": "Ordinal Bull #158789",
+            "name": "The Champ",
             "collection_item_id": "190",
             "inscription_id": "9d85836f018f9fa5c71af177b7dccf3ed5e73b3ce7d4a680994c3a0dfe5ef608i0",
             "image_hash": "c22f551d96bd4107a741edc2b7570568",
@@ -10552,10 +10741,11 @@
             ],
             "number": 158789,
             "content_length": 155814,
-            "timestamp": 1678123721000
+            "timestamp": 1678123721000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #158805",
+            "name": "The Champ",
             "collection_item_id": "191",
             "inscription_id": "3ac5fe868eb758f96765ceade5775b42ac0091ccedc7308dacbde08d7716026di0",
             "image_hash": "4bbf25bce3beccf17104353fecde4b1f",
@@ -10598,10 +10788,11 @@
             ],
             "number": 158805,
             "content_length": 175226,
-            "timestamp": 1678094887000
+            "timestamp": 1678094887000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #161876",
+            "name": "The Writer",
             "collection_item_id": "192",
             "inscription_id": "2d9975f9f70aeaebfbefc290459efcd5e5ae434dd943c71963e773dd1c3473bdi0",
             "image_hash": "49590618e03295f28fb29f2bc4e38d4c",
@@ -10649,10 +10840,11 @@
             ],
             "number": 161876,
             "content_length": 200206,
-            "timestamp": 1678109068000
+            "timestamp": 1678109068000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #162358",
+            "name": "The Writer",
             "collection_item_id": "193",
             "inscription_id": "09531411d32fa160c4512f17c12a8685502c9bde77bedf34a5efcf6880d0252di0",
             "image_hash": "1f0a6df3b14b94059e7d5f7b1855b7ed",
@@ -10700,10 +10892,11 @@
             ],
             "number": 162358,
             "content_length": 193101,
-            "timestamp": 1684951920000
+            "timestamp": 1684951920000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #164557",
+            "name": "The Dutchman",
             "collection_item_id": "194",
             "inscription_id": "854f135d32805b8550898aadf00cb83931a2fe4ea37edb026dd76b2dec06ab0di0",
             "image_hash": "f5a690e25638317ebb906a86356312c4",
@@ -10751,10 +10944,11 @@
             ],
             "number": 164557,
             "content_length": 170101,
-            "timestamp": 1678109431000
+            "timestamp": 1678109431000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #164558",
+            "name": "The Dutchman",
             "collection_item_id": "195",
             "inscription_id": "943eb46251f6ed9b1fa0d90abfd10669e0dfcaa5827a8cf4c5ece19a10218c3ai0",
             "image_hash": "e7f7830f91a628108aa5e35b10e7e86d",
@@ -10802,10 +10996,11 @@
             ],
             "number": 164558,
             "content_length": 161796,
-            "timestamp": 1680620385000
+            "timestamp": 1680620385000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #164561",
+            "name": "The Dutchman",
             "collection_item_id": "196",
             "inscription_id": "4033a34a09acbe534dacfe49f7369f32378a6e0ff8adf9dae44fcd898f62d340i0",
             "image_hash": "dad17743a4a3d0393b4fee2ddb90f84d",
@@ -10853,10 +11048,11 @@
             ],
             "number": 164561,
             "content_length": 324889,
-            "timestamp": 1680621581000
+            "timestamp": 1680621581000,
+            "rarity": "Uncommon"
         },
         {
-            "name": "Ordinal Bull #166104",
+            "name": "The X-ray",
             "collection_item_id": "197",
             "inscription_id": "fa08e1bd352e0c17933d2a2c044479d29b39e6c23ffd1c866daa7679acd93afei0",
             "image_hash": "0e5c972b726242e2cf882705b83c7407",
@@ -10879,10 +11075,11 @@
             ],
             "number": 166104,
             "content_length": 235385,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #238692",
+            "name": "The Pilot",
             "collection_item_id": "198",
             "inscription_id": "dd8c4ff94c8e43baa90379b55092fb229bdaa7a5567abbc408b982f2b7436509i0",
             "image_hash": "8787807814475a55d0fab3c32094722e",
@@ -10920,10 +11117,11 @@
             ],
             "number": 238692,
             "content_length": 136464,
-            "timestamp": 1678119475000
+            "timestamp": 1678119475000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #238693",
+            "name": "The Pilot",
             "collection_item_id": "199",
             "inscription_id": "1304c413a65b4dc48566ad6bdcf4f19616b6238b71f3b979e367bd1613790519i0",
             "image_hash": "b72da82a29840ae3918939015ea9c200",
@@ -10961,10 +11159,11 @@
             ],
             "number": 238693,
             "content_length": 143295,
-            "timestamp": 1678172503000
+            "timestamp": 1678172503000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #238694",
+            "name": "The Pilot",
             "collection_item_id": "200",
             "inscription_id": "29f7c704941d2d6a8f1991e726dcaf6a518cec2471fa5953daba2a3be1b1e830i0",
             "image_hash": "a329f67a66fad4698131a8157156d06c",
@@ -11002,10 +11201,11 @@
             ],
             "number": 238694,
             "content_length": 138121,
-            "timestamp": 1685084024000
+            "timestamp": 1685084024000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #238698",
+            "name": "The Pilot",
             "collection_item_id": "201",
             "inscription_id": "58e55a341bab7ebe1f318629712b653eecdda5523b768074dd7496ad6dfc338ci0",
             "image_hash": "344423f9f237871f5dce09898632ff30",
@@ -11043,10 +11243,11 @@
             ],
             "number": 238698,
             "content_length": 145151,
-            "timestamp": 1678119475000
+            "timestamp": 1678119475000,
+            "rarity": "Epic"
         },
         {
-            "name": "Ordinal Bull #239588",
+            "name": "The Pilot",
             "collection_item_id": "202",
             "inscription_id": "c56581234b72abf8887fa00d77c3611526aeafd554dfebee273f7dc7e1f7c0c7i0",
             "image_hash": "f384ef3eb9eedb020edbc34fcd5bd0e6",
@@ -11084,10 +11285,11 @@
             ],
             "number": 239588,
             "content_length": 274803,
-            "timestamp": 1678095284000
+            "timestamp": 1678095284000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #239592",
+            "name": "The Pilot",
             "collection_item_id": "203",
             "inscription_id": "8a8b6433444af398bc35045e39862a43143bba01e95649513cab871517b43d34i0",
             "image_hash": "3432f4bb417a7455221a96081c5959fb",
@@ -11125,10 +11327,11 @@
             ],
             "number": 239592,
             "content_length": 285748,
-            "timestamp": 1678111730000
+            "timestamp": 1678111730000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #293474",
+            "name": "The Don",
             "collection_item_id": "204",
             "inscription_id": "4c109b1bdf91dca47a4b02df81140fedf32981dd44302aa9092d25c005c38cf5i0",
             "image_hash": "9077709b91ddc749cd571ff0339c7ac6",
@@ -11181,10 +11384,11 @@
             ],
             "number": 293474,
             "content_length": 132757,
-            "timestamp": 1684952451000
+            "timestamp": 1684952451000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #321422",
+            "name": "The Statue",
             "collection_item_id": "205",
             "inscription_id": "33ab703c9ca29673c8ea36168e1b0b9baea9be5df4435d9850608924c26b751ci0",
             "image_hash": "cd7f8ef117382b3f7d56d9202d43d26e",
@@ -11217,10 +11421,11 @@
             ],
             "number": 321422,
             "content_length": 291275,
-            "timestamp": 1680620385000
+            "timestamp": 1680620385000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #354654",
+            "name": "The Miner",
             "collection_item_id": "206",
             "inscription_id": "4db30cd4c7f6d9fa92475afdb26ebac575b62d552db158223cec4f7ffb2a2f37i0",
             "image_hash": "664f67129764db1b509db381344d5b12",
@@ -11248,10 +11453,11 @@
             ],
             "number": 354654,
             "content_length": 211873,
-            "timestamp": 1680619208000
+            "timestamp": 1680619208000,
+            "rarity": "Mythic"
         },
         {
-            "name": "Ordinal Bull #361229",
+            "name": "The Spaceman",
             "collection_item_id": "207",
             "inscription_id": "76a4706150d0a49f1592b307aea6b2c244fa13f8320391bd67bb3958b2a9aa11i0",
             "image_hash": "a00f2c6057e122e6eac44810c37a37c9",
@@ -11294,10 +11500,11 @@
             ],
             "number": 361229,
             "content_length": 337519,
-            "timestamp": 1678379090000
+            "timestamp": 1678379090000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #361240",
+            "name": "The Spaceman",
             "collection_item_id": "208",
             "inscription_id": "eaf220bd27e623253754f85741fd95c6aa2e9d193e93e00cd5012da1deb2c462i0",
             "image_hash": "1a20e6e6af492d1fc68b61a01b930550",
@@ -11340,10 +11547,11 @@
             ],
             "number": 361240,
             "content_length": 345592,
-            "timestamp": 1678379090000
+            "timestamp": 1678379090000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #361600",
+            "name": "The Spaceman",
             "collection_item_id": "209",
             "inscription_id": "3679dbeee6f2068e30b5e207638570063907465721c6a122e0c528726e3cfa21i0",
             "image_hash": "8530ade9c20e53d3b8796be82ef373d6",
@@ -11386,10 +11594,11 @@
             ],
             "number": 361600,
             "content_length": 354157,
-            "timestamp": 1678379131000
+            "timestamp": 1678379131000,
+            "rarity": "Legendary"
         },
         {
-            "name": "Ordinal Bull #366913",
+            "name": "The Psycho",
             "collection_item_id": "210",
             "inscription_id": "bff083474b6af2e08396a3f40e034b1c420f62fd2592d66532a5e0eb60574bbfi0",
             "image_hash": "ff05884118538558804c49a27785dcf4",
@@ -11432,7 +11641,8 @@
             ],
             "number": 366913,
             "content_length": 125780,
-            "timestamp": 1678379090000
+            "timestamp": 1678379090000,
+            "rarity": "Mythic"
         }
     ]
 }
