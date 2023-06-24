@@ -28,31 +28,31 @@ async function init() {
   updateGradient();
 
   // frontside - shiny overlay
-  createCardLayer("front", "overlay", "", 1);
+  // createCardLayer("front", "overlay", "", 1);
 
-  // frontside - layer for image and text on top of overlay
-  createCardLayer(
-    "front",
-    `${cardColor} transparent`,
-    `
-    <div>
-      <div class='t'>${item.name}</div>
-      <div class='s'>${item.rarity}</div>
-    </div>
-    <img src='${baseUrl}${inscriptionId}' onload='(() => { document.getElementById("container").style.display = "block" })()'>
-    <div>
-      <div class='t'>#${item.number}</div>
-      <div class='s'>${getSubText(item.number)}</div>
-    </div>
-    <div class='footer'>
-      <div class='right'>${(item.content_length / 1000).toFixed(2)} KB</div>
-      <div>${json.collection.name}</div>
-    </div>`,
-    1
-  );
+  // // frontside - layer for image and text on top of overlay
+  // createCardLayer(
+  //   "front",
+  //   `${cardColor} transparent`,
+  //   `
+  //   <div>
+  //     <div class='t'>${item.name}</div>
+  //     <div class='s'>${item.rarity}</div>
+  //   </div>
+  //   <img src='${baseUrl}${inscriptionId}' onload='(() => { document.getElementById("container").style.display = "block" })()'>
+  //   <div>
+  //     <div class='t'>#${item.number}</div>
+  //     <div class='s'>${getSubText(item.number)}</div>
+  //   </div>
+  //   <div class='footer'>
+  //     <div class='right'>${(item.content_length / 1000).toFixed(2)} KB</div>
+  //     <div>${json.collection.name}</div>
+  //   </div>`,
+  //   1
+  // );
 
-  // frontside - card layout with static background color
-  createCardLayer("front", cardColor, ``, 0);
+  // // frontside - card layout with static background color
+  // createCardLayer("front", cardColor, ``, 0);
 
   // backside - traits
   createCardLayer("back", cardColor, "", 0);
@@ -168,11 +168,8 @@ function createCardLayer(
 
   const obj = new THREE.CSS3DObject(container);
   
+  if (side === "back") obj.rotation.set(0, Math.PI, 0);
+  
   obj.position.z = zIndex;
-  if (side === "back") {
-    obj.rotation.set(0, Math.PI, 0);
-    obj.position.z = -zIndex;
-  }
-
   scene.add(obj);
 }
