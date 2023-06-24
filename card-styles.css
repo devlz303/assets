@@ -1,0 +1,131 @@
+@font-face {
+	font-display: swap;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://raw.githubusercontent.com/devlz303/assets/master/poppins-v20-latin-200.woff') format('woff'); /* <-- replace this by url of inscribed font */
+}
+
+* {
+	outline: none;
+	box-sizing: border-box;
+	user-select: none;
+}
+	
+body {
+	background-color: #000000;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-family: 'Poppins', Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+}
+
+#container {
+	display: none;
+}
+
+.card {
+	width: 400px;
+	height: 600px;
+
+	border-radius: 20px;
+	backface-visibility: hidden;
+	font-weight: 400;
+	font-style: normal;
+
+	padding-top: 8px;
+	padding-bottom: 8px;        
+}
+
+.card.white {
+	background: rgba(255,255,255,1);
+}
+
+.card.black {
+	color: #ddd;
+	background: #000;
+}
+
+.card.orange {
+	background: rgba(253,143,18,1);
+}
+
+.card.silver {
+	background: rgba(233,233,233,1);
+}
+
+.card.gold {
+	background: rgba(236,216,119,1);
+}
+
+.card.overlay {
+	background: linear-gradient(135deg, rgba(134,134,134,1) 0%, rgba(242,242,242,1) 45%, rgba(242,242,242,1) 55%, rgba(134,134,134,1) 100%);
+	opacity: 0.2;
+}
+
+.card.transparent {
+	background: transparent !important;
+}
+
+.card > div {
+	padding: 8px 16px
+}
+
+.t {
+	font-weight: 800;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+
+.right {
+	flex: 1;
+}
+
+.title {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 180px 180px;
+	grid-template-rows: 80px 80px 80px 80px 80px 80px;
+	column-gap: 10px;
+	row-gap: 10px;
+}
+
+.trait {
+  border: 1px solid #575050;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.type {
+text-transform: uppercase;
+letter-spacing: .02em;
+}
+
+.value {
+font-weight: 800;
+}
+
+.count {
+letter-spacing: .02em;
+}
