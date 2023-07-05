@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      body {
+        background: #000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container" data-inscription="a04bc334d05098b16a400a688e41bc0ccbdd1ebf074f361e70271ec338e78373i0"></div>
+    <script>
+      (async () => {
+        const d = document,
+          b = d.body,
+          q = "\n";
+        const t = await Promise.all([fetch("/content/2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0"), fetch("/content/fc7c940cf9a84e857ae1ed4ea7e80dc519e516abeb1bcd862793225b5be53c61i0"), ]);
+        const h = (await (await t[0]).text()).split(q),
+          a = await (await t[1]).text(),
+          z = d.createElement("script");
+        z.innerHTML = `${h[28]};${h.slice(32,36).join(q)}${q}${a}`;
+        b.appendChild(z);
+      })()
+    </script>
+    <script type="module" src="/content/1744baf408bf1d27969fed34bf36d92e1f1265d0dd48288db141f83ff9e2497ei0"></script>
+  </body>
+</html>
